@@ -1,0 +1,21 @@
+/* ## Typography */
+
+/* ### Body Copy */
+
+p{
+    font-size: 14px;
+}
+
+/* ### Font */
+:root{
+    --font-1: Montserrat, sans-serif;
+    --font-2: Fraunces, serif;
+}
+
+.medium{
+    font-weight: 500;
+}
+
+.bold{
+    font-weight: 700;
+}
