@@ -10,3 +10,9 @@ body {
 body {
   background-color: var(--cream);
 }
+p {
+  margin-top: 0;
+}
+h1 {
+  margin-top: 0;
+}

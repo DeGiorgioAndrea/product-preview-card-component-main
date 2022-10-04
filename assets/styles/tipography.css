@@ -19,3 +19,16 @@ p{
 .bold{
     font-weight: 700;
 }
+
+.darkText{
+    color:var(--veryDarkBlue);
+}
+.lightText{
+    color: var(--darkGrayishBlue);
+}
+.primary1Text{
+    color: var(--darkCyan)
+}
+.primary2Text{
+    color: var(--cream)
+}
